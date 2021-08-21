@@ -1,0 +1,13 @@
+export OMP_NUM_THREADS=1; ./a.out
+export OMP_NUM_THREADS=2; ./a.out 
+export OMP_NUM_THREADS=4; ./a.out
+export OMP_NUM_THREADS=6; ./a.out
+export OMP_NUM_THREADS=8; ./a.out
+export OMP_NUM_THREADS=10; ./a.out
+export OMP_NUM_THREADS=12; ./a.out
+export OMP_NUM_THREADS=16; ./a.out
+export OMP_NUM_THREADS=20; ./a.out
+export OMP_NUM_THREADS=32; ./a.out
+export OMP_NUM_THREADS=64; ./a.out
+export OMP_NUM_THREADS=128; ./a.out
+export OMP_NUM_THREADS=150; ./a.out
